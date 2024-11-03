@@ -1,0 +1,3 @@
+C:/Users/giupe/CLionProjects/GuessTheNumber/cmake-build-debug/CMakeFiles/GuessTheNumber.dir
+C:/Users/giupe/CLionProjects/GuessTheNumber/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/giupe/CLionProjects/GuessTheNumber/cmake-build-debug/CMakeFiles/rebuild_cache.dir
